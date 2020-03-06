@@ -1,7 +1,8 @@
+/* main.c */
 #include <stdio.h>
 
-void main() 
+void main (void)
 {
-    printf("Hello World!");
-    printf("CI start!");
+    printf ("Hello World!\n");
+    printf ("CI start!\n");
 }
